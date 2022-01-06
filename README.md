@@ -1,3 +1,8 @@
+# Deprecated
+
+Use https://github.com/acend/docsy-plus instead.
+
+
 # Docsy Plus
 
 Additions for the [docsy theme](https://github.com/google/docsy) for [Hugo](https://gohugo.io/), used for training content.
